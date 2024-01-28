@@ -103,7 +103,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp EXCL       &kp AT         &kp HASH  &kp RA(NUMBER_4)  &kp PRCNT    &kp CARET  &kp AMPS               &kp ASTERISK   &kp LPAR    &kp AMPERSAND  &kp LS(EQUAL)
+&kp TAB    &kp EXCL       &kp AT         &kp HASH  &kp RA(NUMBER_4)  &kp PRCNT    &kp CARET  &kp AMPS               &kp ASTERISK   &kp LPAR    &kp LS(MINUS)  &kp LS(EQUAL)
 &kp LCTRL  &none          &kp BACKSLASH  &none     &none             &none        &kp MINUS  &kp KP_MULTIPLY        &kp RA(N7)     &kp RA(N0)  &kp GRAVE      &kp RA(N2)
 &kp LSHFT  &kp RS(RA(Z))  &kp RS(RA(X))  &none     &none             &none        &kp SLASH  &kp RIGHT_PARENTHESIS  &kp RA(N8)     &kp RA(N9)  &kp EQUAL      &kp RA(RIGHT_BRACKET)
                                          &kp LGUI  &trans            &kp SPACE    &kp RET    &trans                 &kp BACKSPACE
